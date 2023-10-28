@@ -18,10 +18,10 @@ Save the data to the file
 
 
 # CODE
-
+```
 NAME:THARIKA S
 REGISTER NO.:212222230159
-```
+
 # DATA PREPROCESSING BEFORE FEATURE SELECTION:
 import pandas as pd
 import numpy as np
